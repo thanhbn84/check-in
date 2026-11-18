@@ -1,12 +1,15 @@
 {
   "name": "Check In",
   "short_name": "Check In",
-  "description": "L?ch Check In v? theo d?i chi ph? theo t?ng m?c.",
+  "description": "Lịch Check In và theo dõi chi phí theo từng mục.",
   "lang": "vi",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f7f7f4",
   "theme_color": "#466b50",
-  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
 }
