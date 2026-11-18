@@ -10,8 +10,8 @@ android {
         applicationId = "com.example.alarm"
         minSdk = 23
         targetSdk = 34
-        versionCode = 10
-        versionName = "1.2.6"
+        versionCode = 19
+        versionName = "1.3.5"
     }
 
     signingConfigs {
@@ -30,5 +30,13 @@ android {
     }
 
 }
+
+
+
+
+
+
+
+
 
 
